@@ -1,0 +1,12 @@
+@import "colors";
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+h1 {
+  color: $primary-color;
+}
+p {
+  color: $secondary-color;
+}
